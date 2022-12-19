@@ -7,7 +7,7 @@ public class _03_Variables {
         // 문자 = char
         // 문자열 = String
         // 논리 = boolean
-        
+
         String name = "Kamja44";
         int time = 15;
 
